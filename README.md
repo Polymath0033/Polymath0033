@@ -4,9 +4,10 @@
 [![LinkedIn](https://img.shields.io/badge/YusufOlosan-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yusuf-olosan-ab37a7229/)
 [![Twitter](https://img.shields.io/badge/@olosanyusuf-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/Olosanyusuf)
 
-- 🌱 I’m currently learning React Native
+- 🌱 I’m currently learning Flutter
 - 👯 I’m looking to collaborate on Frontend Engineer Role
 - 👀 I’m interested in solving problems with  web apps
+- ❤️ I love building browser extensions
 - 💬 Ask me about Frontend Engineering
 
   
