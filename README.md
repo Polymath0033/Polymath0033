@@ -5,6 +5,7 @@
 [![Twitter](https://img.shields.io/badge/@olosanyusuf-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/Olosanyusuf)
 
 - 🌱 I’m currently learning Flutter
+- 💬 Let's discuss about Java and backend engineering, I am learning
 - 👯 I’m looking to collaborate on Frontend Engineer Role
 - 👀 I’m interested in solving problems with  web apps
 - ❤️ I love building browser extensions
