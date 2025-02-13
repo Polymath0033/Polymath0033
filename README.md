@@ -4,12 +4,14 @@
 [![LinkedIn](https://img.shields.io/badge/YusufOlosan-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yusuf-olosan-ab37a7229/)
 [![Twitter](https://img.shields.io/badge/@olosanyusuf-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/Olosanyusuf)
 
-- 🌱 I’m currently learning Flutter
-- 💬 Let's discuss about Java and backend engineering, I am learning
-- 👯 I’m looking to collaborate on Frontend Engineer Role
-- 👀 I’m interested in solving problems with  web apps
+
+- 👯 I’m looking to collaborate on both Frontend (Web and Mobile) and     Backend Engineering roles
+- 🌱 I’m currently learning how to write more complex queries with RDBMS
+- 💬 Let's discuss Java and backend engineering—I work with Spring Boot
+- 💬 Let's discuss Flutter and mobile development
+- 👀 👀 I’m interested in solving complex problems with web and mobile applications
 - ❤️ I love building browser extensions
-- 💬 Ask me about Frontend Engineering
+- 💬 Ask me about Frontend Engineering, Vue, React, Typescript and backend development with spring boot
 
   
 ### Github stats
