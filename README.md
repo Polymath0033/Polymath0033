@@ -2,7 +2,7 @@
 
 [![Gmail](https://img.shields.io/badge/-olosanyusuf19@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:olosanyusuf19@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/YusufOlosan-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yusuf-olosan-ab37a7229/)
-[![Twitter](https://img.shields.io/badge/@olosanyusuf-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/Olosanyusuf)
+[![Twitter](https://img.shields.io/badge/@olosanyusuf-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://x.com/Olosanyusuf)
 
 ---
 
